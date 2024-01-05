@@ -6,4 +6,4 @@ def count_digit():
          count+=1
  print(count)
  
-string()
+string() 
